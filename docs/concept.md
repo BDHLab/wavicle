@@ -53,5 +53,3 @@ She can use Wavicle and right set of extensions to create an educational website
 Wavicle, in fact, can be used to make a whole new web app, by installing extension to create, manage and combine scripts.
 You can have threads combined to make a forum, obviously you can give privileges to your registered visitors to create new thread.
 A thread won’t be complete without posts. Post is another type of content and belongs to a specific thread. This is an example of nesting content. Here, you’re simply nesting posts inside threads.
-
-Test
